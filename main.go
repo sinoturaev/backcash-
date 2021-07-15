@@ -22,5 +22,5 @@ func main() {
 	fmt.Println("cashback is", cashback)
 }
 // git init
-// git add
-// TODO
+// git add .
+// TODO: git commit -m "my message"
